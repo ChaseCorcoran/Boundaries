@@ -1,0 +1,4 @@
+# Boundaries
+Boundaries is a game in which the player must move their character through a maze which they cannot see. If the player hits a wall of the maze, they will be placed at the beginning of the maze again. The trail that their character leaves will serve as a reminder of the path to follow so that as the player progresses they will be able to tell what the boundaries of the maze are and where to avoid. The goal is to make it to the end of the maze where there is a ball; once the ball is grabbed the player will win.
+## Meaning of the Game
+The meaning and symbolism of the game is to serve as a model of social boundaries, and how one cannot know what is considered acceptable or as a social norm until those boundaries have been tested. This is to serve as an argument against censorship, and to show that in order to progress culturally we must allow for a certain amount of deviance.
